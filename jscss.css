@@ -1,0 +1,72 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+a{
+	color: rgb(149,189,216);
+}
+p{
+	color:white;
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+span{
+	color: rgb(100,79,150);
+}
+li{
+	color: white;
+	margin-left: 20px;
+}
+#background{
+	background-color:rgb(47,66,96); 
+	padding: 10px;
+	overflow: auto;
+	width: 970px;
+}
+#header{
+	background-color:rgb(204,50,30); 
+	border-radius: 5px;
+	padding: 20px;
+	margin-bottom: 20px;
+
+}
+#sidebar{
+	background-color:rgb(105,158,181); 	
+	border-radius: 15px;
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+#main_content{
+	background-color:rgb(10,10,35); 
+	display: inline-block;
+	border-radius: 15px;
+	padding: 20px;
+	margin-left: 25px;
+	width: 70%;
+	vertical-align: top;
+}
+#footer{
+	background-color:rgb(123,123,145); 
+	display: block;
+	padding: 15px;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+.subheader{
+	padding:10px;
+}
+.subtext{
+	padding: 10px;
+}
+.subli{
+	margin:5px 0px 5px 30px;
+}
+.lili{
+	margin-left: 40px;
+}
